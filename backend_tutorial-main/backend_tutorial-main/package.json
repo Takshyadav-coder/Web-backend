@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Takshyadav-coder/Web-backend.git"
   },
-  "author": "Ansh",
+  "author": "Taksh Yadav",
   "license": "ISC",
   "main": "index.js",
   "type": "module",
